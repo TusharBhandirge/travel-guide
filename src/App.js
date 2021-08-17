@@ -5,10 +5,6 @@ import React,{useState} from "react";
 function App() {
 
   
-  
-  const [emojiMeaning, setEmojiMeaning]  = useState(""); 
-
- 
 
   var list ={
     "Street Food" : ["Vada Paav", "Paav Bhaji", "Puran poli"],
