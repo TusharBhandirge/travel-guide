@@ -43,3 +43,7 @@ button{
 #id-div-output{
   padding-right: 3rem;
 }
+
+#id-list-item{
+  text-align: left;
+}
